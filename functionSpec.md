@@ -27,7 +27,7 @@ INSREFLECSUR
 ```
 Adds a reflective surface in the lens system.
 Specifications: <c> <p> <r> <dp> <dn> [title]
-  p is the index of the surface after which to insert this surface (starting from0)
+  |p | is the index of the surface after which to insert this surface (starting from0)|
   r is the radius of curvature
   dp is the distance from the previous surface (surface p)
   dn is the distance to the next surface
