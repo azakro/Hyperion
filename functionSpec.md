@@ -10,3 +10,29 @@ spatial reasoning, and collaborative problem solving involved in freeform optics
 ```
 BACSYS
 ```
+Makes temporary backup of the lens systems, not just the lens definitions. 
+
+```
+GETGENSYSSET
+```
+Displays settings, specifically Strictly collinear System, Non-collinear System (explicit; dummy sfces), Non-collinear System (implicit; hidden sfces), Standard coordinate system, Canonical coordinate system.
+
+```
+INSFIEPOI
+```
+Adds a field point to the specified configuration.
+
+```
+INSREFLECSUR
+```
+Adds a reflective surface in the lens system.
+Specifications: <c> <p> <r> <dp> <dn> [title]
+  p is the index of the surface after which to insert this surface (starting from0)
+  r is the radius of curvature
+  dp is the distance from the previous surface (surface p)
+  dn is the distance to the next surface
+  [title] is  an  optional  string  (no  spaces)
+
+```
+INSREFLECSUR
+```
