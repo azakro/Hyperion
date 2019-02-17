@@ -12,7 +12,8 @@ The first artical discusses the effect that spacial movements have on the brain,
 ```
 "By using exclusively verbal descriptions we provide strong evidence that spatial processing requires 
 primary visual cortex functions, which reflect mental imagery processing. The results of this study show
-that egocentric and allocentric spatial coding are partly unique domains which recruit distinct brain regions"
+that egocentric and allocentric spatial coding are partly unique domains which recruit distinct brain 
+regions"
 ```
 
 In building the Hyperion application on a new platform it is important to consider chosing the right frame of reference, either egocentric or allocentric, because of how differently they affect the user's congnition. 
