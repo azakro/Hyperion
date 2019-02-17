@@ -15,3 +15,9 @@ This artical discusses the effect that spacial movements have on the brain, and 
 In building the Hyperion application on a new platform it is important to consider chosing the right frame of reference, either egocentric or allocentric, because of how differently they affect the user's congnition. 
 
 ##### Manipulation of 3D Objects in Immersive Virutal Environments
+
+
+## Friday February 8th, 2019
+
+This week I worked on creating the function specifications, specifically for functions that would be useful in 3D interactions. Functions like selection, translation, rotation, and scaling are important to locate in the backend in order to find what is needed for manipulation in the front end. 
+
