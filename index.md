@@ -33,7 +33,7 @@ This information can be applied to the Hyperion project in making decisions on t
 
 This week I worked on creating the function specifications, specifically for functions that would be useful in 3D interactions. Functions like selection, translation, rotation, and scaling are important to locate in the backend in order to find what is needed for manipulation in the front end. 
 
-Important 3D Manpulation Functions: 
+##### Important 3D Manpulation Functions: 
 
 ```
 SURMOV
