@@ -1,5 +1,6 @@
 # Research Journal Blog
-# 
+
+<br>
 
 ## Friday February 15th, 2019
 
@@ -27,7 +28,7 @@ These specifications are applied to "mid-air maipulations (using 2D displays, ei
 
 This information can be applied to the Hyperion project in making decisions on the hand manipulation capabilities in the 3D HoloLens environment. 
 
-# 
+ 
 
 ## Friday February 8th, 2019
 
