@@ -1,5 +1,5 @@
 # Research Journal Blog
-# ---------------------
+# ---------------------------------
 
 ## Friday February 15th, 2019
 
@@ -27,8 +27,26 @@ These specifications are applied to "mid-air maipulations (using 2D displays, ei
 
 This information can be applied to the Hyperion project in making decisions on the hand manipulation capabilities in the 3D HoloLens environment. 
 
+# ---------------------------------
 
 ## Friday February 8th, 2019
 
 This week I worked on creating the function specifications, specifically for functions that would be useful in 3D interactions. Functions like selection, translation, rotation, and scaling are important to locate in the backend in order to find what is needed for manipulation in the front end. 
+
+Important 3D Manpulation Functions: 
+
+```
+SURMOV
+``` 
+Moves (displaces, decenters) one or more surfaces
+
+```
+SURTIL / SURTIL <c> <n> <a> <p> <axis>
+``` 
+Tilts (rotates) one or more surfaces.
+  - c is the configuration number (starting from 0)
+  - n is the index of the surface to tilt
+  - a is the tilt angle in degrees
+  - p is the distance from surface n to the pivot axis
+  - axis is one of “x,” “y,” or “z,” the pivot axis
 
