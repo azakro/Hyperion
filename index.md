@@ -7,15 +7,16 @@ This week, Sydney and I did some research and implementation with Vuforia in Uni
 
 We started with testing this image and its tracking in the Unity game test:
 
-![UofR](1.png)
+<img src="1.png" width="125" height="100">
 
 After downloading Vuforia, configuring Unity to support Vuforia, adding this image to the Image Target database on my personal Vuforia developers account online, and finally exporting this library into Unity, we were able to get the image with its tracking capabilities into Unity.
 
-![UnityScreenshot1](2.png)
+<img src="2.png" width="400" height="300">
 
 This also allowed for a 3D object to be placed on the image in Unity, which would show up in testing when holding up the specific printed image on camera. 
 
-![UnityScreenshot2](3.png)
+<img src="3.png" width="400" height="300">
+
 
 ## Friday February 22nd, 2019
 
