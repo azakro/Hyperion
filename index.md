@@ -7,7 +7,7 @@ This week, Sydney and I did some research and implementation with Vuforia in Uni
 
 We started with testing this image and its tracking in the Unity game test:
 
-![UofR](1.png)
+![UofR](1.png =100x100)
 
 After downloading Vuforia, configuring Unity to support Vuforia, adding this image to the Image Target database on my personal Vuforia developers account online, and finally exporting this library into Unity, we were able to get the image with its tracking capabilities into Unity.
 
