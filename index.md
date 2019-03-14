@@ -5,7 +5,8 @@
 ## Friday March 1st, 2019
 This week, Sydney and I did some research and implementation with Vuforia in Unity. With our goal of having a tactile user interaface in Hyperion, we are planning on using the image tracking library in Vuforia in order to implement marker based tracking in Hyperion. 
 
-We started with testing this image and its tracking in the Unity game test.
+We started with testing this image and its tracking in the Unity game test:
+![UofR](1.png =200x200)
 
 After downloading Vuforia, configuring Unity to support Vuforia, adding this image to the Image Target database on my personal Vuforia developers account online, and finally exporting this library into Unity, we were able to get the image with its tracking capabilities into Unity.
 
