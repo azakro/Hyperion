@@ -2,6 +2,46 @@
 
 <br>
 
+## Friday March 1st, 2019
+This week, Sydney and I did some research and implementation with Vuforia in Unity. With our goal of having a tactile user interaface in Hyperion, we are planning on using the image tracking library in Vuforia in order to implement marker based tracking in Hyperion. 
+
+We started with testing this image and its tracking in the Unity game test.
+
+After downloading Vuforia, configuring Unity to support Vuforia, adding this image to the Image Target database on my personal Vuforia developers account online, and finally exporting this library into Unity, we were able to get the image with its tracking capabilities into Unity.
+
+This also allowed for a 3D object to be placed on the image in Unity, which would show up in testing when holding up the specific printed image on camera. 
+
+## Friday February 22nd, 2019
+
+This week I've reviewed the CHI 2018 Best Paper Award, 'Pinpointing: Precise Head- and Eye-Based Target
+Selection for Augmented Reality'. 
+
+The paper summarizes some 'requirements' for pinpointing interactions-- 
+> 1) "Pinpointing must balance the needs of selecting large
+objects with minimal speed and effort, with the ability
+to select very small targets when desired."
+
+> 2) "Because wearable AR platforms overlay content
+directly on the real world, interaction should leverage
+the context provided by a user’s visual focus."
+
+> 3) "To afford mobility in interactive environments and
+provide a natural experience with virtual content, use
+of wieldy, external devices should be minimized."
+
+> 4) "Interaction in AR applications should be as ‘invisible’
+as possible, so that users are primarily focused on real
+and virtual objects, and not mechanics of the interface."
+
+> 5) "Interactions that trigger noticeable object behaviours
+should be deliberate, so that users are not distracted by
+unintended consequences of actions."
+
+##### Some other major points:
+- control through eye gaze can be confusing, tiring, and has a steeper learning curve for the user compared to hand-pointing, even if the input was faster
+- head-pointing provides good hands free interactions, but in terms of usabillity it still isn't as good as hand-based input because of lower muscle fatigue
+- eye-gaze as an input, even with its tracking limitations, could become more accurate if coupled with hand gestures or handheld devices
+
 ## Friday February 15th, 2019
 
 This week I've reviewed two papers:
